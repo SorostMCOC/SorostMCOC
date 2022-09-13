@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SorostMCOC
+- 👋 Hi, I’m Daniel Kamenov - @SorostMCOC
 - 👀 I’m interested in dogs, video games, web development and crypto development.
 - 🌱 I’m currently learning JS and Solidity.
 - 💞️ I’m looking to collaborate on Web 2.0 and Web 3.0 projects.
